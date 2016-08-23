@@ -1,0 +1,12 @@
+- title: "Home"
+  subcategories:
+    - subtitle: "Call for Papers"
+      subhref: "/download/CyberScience2017-CFP-0728.pdf"
+    - subtitle: "Blog"
+      subhref: "/blog/"
+
+- title: "Call for Papers"
+  href: "/download/CyberScience2017-CFP-0728.pdf"
+
+- title: "Blog"
+  href: "/blog/"
