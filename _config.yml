@@ -5,8 +5,8 @@ sourcecode: "https://github.com/janzhou/cyberscience"
 permalink: blog/:year/:month/:day/:title
 exclude: ["README.md"]
 
-url: "http://www.cass.eecs.ucf.edu"     # the base hostname & protocol for your site
-baseurl: "/cyberscience2017"                   # the subpath of your site, e.g. /blog
+url: "https://cyber-science.github.io/"     # the base hostname & protocol for your site
+baseurl: "/"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
