@@ -1,12 +1,12 @@
 title: Cyber Science 2017
 description: 2017 IEEE CyberSciTech/DASC/PICom/DataCom
-sourcecode: "https://github.com/janzhou/cyberscience"
+sourcecode: "https://github.com/cyber-science/cyber-science.github.io"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["README.md"]
 
 url: "https://cyber-science.github.io/"     # the base hostname & protocol for your site
-baseurl: "/"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
     name:

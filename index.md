@@ -1,10 +1,11 @@
 ---
-layout: page
-title: Cyber Science 2017
+layout: left-sidebar
+title: Cyber Science <strong>2017</strong>
+description: 2017 IEEE CyberSciTech/DASC/PICom/DataCom
+featured: /images/Lake_Eola_Orlando_Florida.jpg
 permalink: /
+icon: fa-laptop
 ---
-
-## 2017 IEEE CyberSciTech/DASC/PICom/DataCom
 
 **Towards Cyber-enabled New Sciences, Technologies and Applications** <br/>
 **Orlando, Florida, USA, November 6-10, 2017**
