@@ -1,0 +1,9 @@
+{% if include.featured %}
+  <div class="featured-slick">
+    {% for featured in include.featured %}
+    <div>
+      <a href="#" class="image featured"><img src="{{ featured | prepend: site.baseurl }}" alt="" /></a>
+    </div>
+    {% endfor %}
+  </div>
+{% endif %}
