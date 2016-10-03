@@ -3,8 +3,49 @@
   <h1 id="logo"><a href="index.html">{{ site.title }} <span>{{ site.description }}</span></a></h1>
   <nav id="nav">
     <ul>
-      <li class="current"><a href="{{"/welcome.html" | prepend: site.baseurl}}">Welcome</a></li>
-      <li><a href="{{"/download/CyberScience2017-CFP-0728.pdf" | prepend: site.baseurl}}">Call for Paper</a></li>
+      <li class="current"><a href="{{"/" | prepend: site.baseurl}}">Home</a></li>
+      <li class="submenu">
+        <a href="{{"/welcome.html" | prepend: site.baseurl}}">Attend</a>
+        <ul>
+          <li>
+            <a href="{{"/welcome.html" | prepend: site.baseurl}}">Welcome</a>
+          </li>
+        </ul>
+      </li>
+      <li class="submenu">
+        <a href="{{"/download/CyberScience2017-CFP-0728.pdf" | prepend: site.baseurl}}">Call for Papers</a>
+        <ul>
+          <li>
+            <a href="{{"/download/CyberScience2017-CFP-0728.pdf" | prepend: site.baseurl}}">Call for Paper</a>
+          </li>
+          <li><a href="#">Call for Workshops</a></li>
+        </ul>
+      </li>
+      <li class="submenu">
+        <a href="#">Program</a>
+        <ul>
+          <li>
+            <a href="#">Glance</a>
+          </li>
+          <li>
+            <a href="#">Technical Session</a>
+          </li>
+        </ul>
+      </li>
+      <li class="submenu">
+        <a href="#">About</a>
+        <ul>
+          <li>
+            <a href="#">Conference Organizers</a>
+          </li>
+          <li>
+            <a href="#">Program Committee</a>
+          </li>
+          <li>
+            <a href="#">Past Conferences</a>
+          </li>
+        </ul>
+      </li>
     </ul>
   </nav>
 </header>
