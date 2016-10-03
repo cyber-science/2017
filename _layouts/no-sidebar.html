@@ -1,64 +1,15 @@
 ---
-layout: no-sidebar
+layout: twenty
 ---
-<!DOCTYPE HTML>
-<!--
-	Twenty by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
-	<head>
-		<title>{% if page.title %}{{ page.title | strip_html }} - {% endif %}{{ site.title }}</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<!--[if lte IE 8]><script src="{{"/js/ie/html5shiv.js" | prepend: site.baseurl }}"></script><![endif]-->
-		<link rel="stylesheet" href="{{"/css/no-sidebar.css" | prepend: site.baseurl }}" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="{{"/css/ie8.css" | prepend: site.baseurl }}" /><![endif]-->
-		<!--[if lte IE 9]><link rel="stylesheet" href="{{"/css/ie9.css" | prepend: site.baseurl }}" /><![endif]-->
-	</head>
-	<body class="no-sidebar">
-		<div id="page-wrapper">
 
-			<!-- Header -->
-				<header id="header">
-          <h1 id="logo"><a href="index.html">{{ site.title }} <span>{{ site.description }}</span></a></h1>
-          {% include menu.html %}
-				</header>
+<header class="special container">
+	<span class="icon {{ page.icon }}"></span>
+	<h2>{{ page.title }}</h2>
+	<p>{{ page.description }}</p>
+</header>
 
-			<!-- Main -->
-				<article id="main">
-
-					<header class="special container">
-						<span class="icon {{ page.icon }}"></span>
-            <h2>{{ page.title }}</h2>
-            <p>{{ page.description }}</p>
-					</header>
-
-					{{ content }}
-
-				</article>
-
-			<!-- Footer -->
-				<footer id="footer">
-
-					<ul class="copyright">
-            <li>&copy; {{ site.title }}</li><li><a href="{{ site.sourcecode }}">Source Code</a>.</li>
-					</ul>
-
-				</footer>
-
-		</div>
-
-		<!-- Scripts -->
-			<script src="{{"/js/jquery.min.js" | prepend: site.baseurl }}"></script>
-			<script src="{{"/js/jquery.dropotron.min.js" | prepend: site.baseurl }}"></script>
-			<script src="{{"/js/jquery.scrolly.min.js" | prepend: site.baseurl }}"></script>
-			<script src="{{"/js/jquery.scrollgress.min.js" | prepend: site.baseurl }}"></script>
-			<script src="{{"/js/skel.min.js" | prepend: site.baseurl }}"></script>
-			<script src="{{"/js/util.js" | prepend: site.baseurl }}"></script>
-			<!--[if lte IE 8]><script src="{{"/js/ie/respond.min.js" | prepend: site.baseurl }}"></script><![endif]-->
-			<script src="{{"/js/no-sidebar.js" | prepend: site.baseurl }}"></script>
-
-	</body>
-</html>
+<section class="wrapper style4 container">
+	<div class="content">
+		{{ content }}
+	</div>
+</section>

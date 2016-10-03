@@ -1,5 +1,5 @@
 ---
-layout: left-sidebar
+layout: right-sidebar-article
 title: Cyber Science <strong>2017</strong>
 description: 2017 IEEE CyberSciTech/DASC/PICom/DataCom
 featured: /images/Lake_Eola_Orlando_Florida.jpg

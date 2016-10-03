@@ -1,0 +1,10 @@
+---
+layout: right-sidebar
+---
+
+<section>
+  {% if page.featured %}
+  <a href="#" class="image featured"><img src="{{ page.featured | prepend: site.baseurl }}" alt="" /></a>
+  {% endif %}
+  {{ content }}
+</section>
