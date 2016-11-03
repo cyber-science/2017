@@ -1,6 +1,6 @@
 title: Cyber Science 2017
 description: IEEE CyberSciTech/DASC/PICom/DataCom
-sourcecode: "https://github.com/cyber-science/cyber-science.github.io"
+sourcecode: "https://github.com/cyber-science/2017"
 
 permalink: blog/:year/:month/:day/:title
 exclude: ["README.md"]
