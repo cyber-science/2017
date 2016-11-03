@@ -6,7 +6,7 @@ permalink: blog/:year/:month/:day/:title
 exclude: ["README.md"]
 
 url: "https://cyber-science.github.io/"     # the base hostname & protocol for your site
-baseurl: ""                   # the subpath of your site, e.g. /blog
+baseurl: "/2017"                   # the subpath of your site, e.g. /blog
 
 author:
     name:
