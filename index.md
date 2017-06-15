@@ -53,6 +53,10 @@ panels, demos and exhibitions are also extremely welcome.
 * Author Notification: August 10th, 2017
 * Camera-ready Due: September 1st, 2017
 
+## Submission
+
+Authors are invited to submit their original research work that has not previously been submitted or published in any other venue. Papers should be prepared in IEEE CS format and submitted via the Cyber Science 2017 web site, [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118).
+
 ## Publications
 
 Accepted papers will be published by IEEE CPS. Selected papers, after further extensions and revisions
