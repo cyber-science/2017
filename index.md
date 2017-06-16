@@ -47,8 +47,8 @@ panels, demos and exhibitions are also extremely welcome.
 
 ## Important Dates
 
-* Workshop Proposal Due: March 30, 2017
-* Special Session Proposal Due: April 30, 2017
+* Workshop Proposal Due: March 30th, 2017
+* Special Session Proposal Due: April 30th, 2017
 * Paper Submission Deadline: July 10th, 2017
 * Author Notification: August 10th, 2017
 * Camera-ready Due: September 1st, 2017
