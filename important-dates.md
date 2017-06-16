@@ -5,8 +5,7 @@ description: IEEE CyberSciTech/DASC/PICom/DataCom
 icon: fa-file-text
 ---
 
-* Workshop Proposal Due: **March 30th, 2017**
-* Special Session Proposal Due: **April 30th, 2017**
-* Paper Submission Deadline: **July 30th, 2017**
-* Author Notification: **August 10th, 2017**
-* Camera-ready Due: **September 1st, 2017**
+- Workshop/Special Session Proposal Due: February 28, 2017
+- Paper Submission Due: ~~May 10, 2017~~ July 10, 2017
+- Author Notification: ~~July 10, 2017~~ August 10, 2017
+- Camera-Ready Manuscript Due: ~~August 15, 2017~~ September 1, 2017
