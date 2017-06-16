@@ -1,7 +1,7 @@
 ---
 layout: right-sidebar-article
-title: 2017 IEEE Cyber Science and Technology Congress (CyberSciTech 2017)
-description: Orlando, USA, November 6-10, 2017
+title: CyberSciTech 2017
+description: 2017 IEEE Cyber Science and Technology Congress<br/>Orlando, USA, November 6-10, 2017
 icon: fa-file-text
 ---
 
