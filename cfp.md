@@ -1,11 +1,11 @@
 ---
 layout: right-sidebar-article
-title: Call for Paper
+title: 2017 IEEE Cyber Science and Technology Congress (CyberSciTech 2017)
 description: Orlando, USA, November 6-10, 2017
 icon: fa-file-text
 ---
 
-# 2017 IEEE Cyber Science and Technology Congress (CyberSciTech 2017)
+# Call for Paper
 
 [Download PDF Version.]({{"/download/CyberSciTech2017CFP_final.pdf" | prepend: site.baseurl}})
 
