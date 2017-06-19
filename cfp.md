@@ -36,7 +36,7 @@ Cyber-Brain, Cyber-Individual, Cyber-Life, Cyber/Digital Clone, Cyber-Human Evol
 
 ## Submission and Publication
 
-Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Submitted papers need to abide by IEEE Computer Society formats. Final papers must be formatted accordingly (see “[IEEE Manuscript Templates](http://cyber-science.org/2017/si.html)” and submitted via EDAS [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118). 
+Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Submitted papers need to abide by IEEE Computer Society formats. Final papers must be formatted accordingly (see “[IEEE Manuscript Templates](http://cyber-science.org/2017/si.html)” and submitted via EDAS [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118)). 
 
 Regular, work-in-progress, workshop/special session, poster (short) papers all need to be in IEEE CS format and submitted following the same instruction on the CyberSciTech 2017 congress web site. A regular, workshop, or special session paper should be between 6-8 pages. A work-in-progress paper should be between 4-6 pages whereas a poster (short) paper should be between 2-4 pages. 
 
