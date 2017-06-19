@@ -112,6 +112,10 @@ url("font-awesome.min.css");
 	section.special, article.special {
 		text-align: center;
 	}
+    
+    centertext {
+        text-align: center;
+    }
 
 	header.major {
 		padding-bottom: 2em;
