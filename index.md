@@ -1,10 +1,7 @@
 ---
 layout: right-sidebar-article
-title: Cyber Science <strong>2017</strong>
-description: IEEE CyberSciTech/DASC/PICom/DataCom
 featured: [/images/Lake_Eola_Orlando_Florida.jpg, /images/hi1.jpg]
 permalink: /
-icon: fa-laptop
 ---
 
 ##Theme: Towards Cyber-Enabled New Sciences, Technologies and Applications for a Better Society
