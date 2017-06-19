@@ -1,36 +1,12 @@
 <!-- Header -->
 <header id="header">
-  <h1 id="logo"><a href="index.html">{{ site.title }} <span>{{ site.description }}</span></a></h1>
+  <!--<h1 id="logo"><a href="index.html">{{ site.title }} <span>{{ site.description }}</span></a></h1>-->
   <nav id="nav">
     <ul>
-     <li class="submenu">
-        <a href="#">Call for Papers</a>
-        <ul>
-          <li>
-            <a href="{{"/cfp.html" | prepend: site.baseurl}}">Call for Paper</a>
-          </li>
-          <li>
-            <a href="{{"/important-dates.html" | prepend: site.baseurl}}">Important Dates</a>
-          </li>
-          <li>
-            <a href="{{"/co-located-conferences.html" | prepend: site.baseurl}}">Co-located Conferences</a>
-          </li>
-        </ul>
-      </li>
-      <li class="submenu">
-        <a href="#">Special Session</a>
-        <ul>
-          <li>
-            <a href="{{"/special-session.html" | prepend: site.baseurl}}">Special Session</a>
-          </li>
-          <li>
-            <a href="{{"/si.html" | prepend: site.baseurl}}">Special Issues</a>
-          </li>
-          <li>
-            <a href="{{"/tutorial.html" | prepend: site.baseurl}}">Tutorial</a>
-          </li>
-        </ul>
-      </li>
+      <a href="{{"/cfp.html" | prepend: site.baseurl}}">Call for Papers</a>
+      <a href="{{"/special-session.html" | prepend: site.baseurl}}">Special Sessions</a>
+      <a href="{{"/si.html" | prepend: site.baseurl}}">Special Issues</a>
+      <a href="{{"/tutorial.html" | prepend: site.baseurl}}">Tutorials</a>        
       <li class="submenu">
         <a href="#">Attend</a>
         <ul>
@@ -40,25 +16,9 @@
           <li>
             <a href="{{"/travel.html" | prepend: site.baseurl}}">Map & Directions</a>
           </li>
-          <li>
-            <a href="#">Universities around</a>
-          </li>
-          <li>
-            <a href="#">Engineering Firms</a>
-          </li>
         </ul>
       </li>
-      <li class="submenu">
-        <a href="#">About</a>
-        <ul>
-          <li>
-            <a href="{{"/organization.html" | prepend: site.baseurl}}">Organization</a>
-          </li>
-          <li>
-            <a href="#">Program Committee</a>
-          </li>
-        </ul>
-      </li>
+      <a href="{{"/organization.html" | prepend: site.baseurl}}">Organization</a>
     </ul>
   </nav>
 </header>
