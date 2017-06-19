@@ -7,7 +7,7 @@ permalink: /
 icon: fa-laptop
 ---
 
-##Theme: Towards Cyber-Enabled New Sciences, Technologies and Applications for a Better Society
+### Theme: Towards Cyber-Enabled New Sciences, Technologies and Applications for a Better Society
 
 The modern digitized world has led to the emergence of a new paradigm on global information networks and infrastructures known as Cyberspace and the studies of Cybernetics, which bring seamless integration of physical, social and mental spaces. Cyberspace is becoming an integral part of our daily life from learning and entertainment to business and cultural activities. As expected, this whole concept of Cybernetics brings new challenges that need to be tackled.
 
