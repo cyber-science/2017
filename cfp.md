@@ -40,5 +40,4 @@ Authors are invited to submit their original work that has not previously been s
 
 Regular, work-in-progress, workshop/special session, poster (short) papers all need to be in IEEE CS format and submitted following the same instruction on the CyberSciTech 2017 congress web site. A regular, workshop, or special session paper should be between 6-8 pages. A work-in-progress paper should be between 4-6 pages whereas a poster (short) paper should be between 2-4 pages. 
 
-All accepted papers in the regular, work-in-progress, workshops, special sessions and posters will be published in an IEEE Computer Society proceedings (EI indexed). Extended versions of selected excellent papers will be considered for publication in special issues of prestige journals [http://cyber-science.org/2017/si.html](http://cyber-science.org/2017/si.html).
-
+All accepted papers in the regular, work-in-progress, workshops, special sessions and posters will be published in an IEEE Computer Society proceedings (EI indexed). Extended versions of selected excellent papers will be considered for publication in special issues of prestigious journals [http://cyber-science.org/2017/si.html](http://cyber-science.org/2017/si.html).
