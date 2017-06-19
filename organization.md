@@ -14,7 +14,7 @@ icon: fa-laptop
 - Song Guo, Hong Kong Polytechnic Univ., Hong Kong
 - Yi Qian, University of Nebraska-Lincoln, USA
 - General Executive Chair
-- Jun Wang, University of Certral Florida, USA
+- Jun Wang, University of Central Florida, USA
 
 ## Program Chairs 
 
@@ -25,7 +25,7 @@ icon: fa-laptop
 
 ## Workshop/Tutorial Chairs 
 
-- Yaser P. Fallah, University of Certral Florida, USA
+- Yaser P. Fallah, University of Central Florida, USA
 - Xiulong Liu, Hong Kong Polytechnic Univ., HK
 - Jiangtao Luo, Chongqing Univ. of Posts and Tele., China
 
