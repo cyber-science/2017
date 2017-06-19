@@ -5,11 +5,13 @@ description: Virtual Reality under Cyber
 icon: fa-file-text
 ---
 
-## Title of the proposed session
+<div class="centertext">
+<h2>Special Sessions</h2>
+</div>
 
-Virtual Reality under Cyber
+## (1) Virtual Reality under Cyber
 
-## Aim and scope (including a list of main topics)
+### Aim and scope
 
 In the past several years, we have seen dramatic advancement in many applications enabled by the use of virtual reality technologies. The purpose of this special issue on CyberSciTech 2017 is to offer a platform for scientist and researchers to exchange their novel ideas and outcomes in research and technology on virtual reality. The main topics of interest are on challenges and innovations for virtual reality and its applications in game, movie and social networking. We are seeking papers in, but not limited to, the following main areas: 
 
@@ -19,7 +21,7 @@ In the past several years, we have seen dramatic advancement in many application
 - (4) Computer vision for 3D modeling
 - (5) Augmented reality and image processing for visual effects
 
-## Proposers’ names, titles, affiliations, primary contact emails
+### Organiser
 
 Yi Wei, Lecture, Wuyi University, wyqbits@sina.com
 
