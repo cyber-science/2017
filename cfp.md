@@ -5,7 +5,7 @@ description: 2017 IEEE Cyber Science and Technology Congress<br/>Orlando, USA, N
 icon: fa-file-text
 ---
 
-## [Call for Paper]({{"/download/CyberSciTech2017CFP_final.pdf" | prepend: site.baseurl}})
+## [Call for Papers]({{"/download/CyberSciTech2017CFP_final.pdf" | prepend: site.baseurl}})
 
 The modern digitized world has led to the emergence of a new paradigm on global information networks and infrastructures known as Cyberspace and the studies of Cybernetics, which bring seamless integration of physical, social and mental spaces. Cyberspace is becoming an integral part of our daily life from learning and entertainment to business and cultural activities. As expected, this whole concept of Cybernetics brings new challenges that need to be tackled.
 
@@ -36,9 +36,8 @@ Cyber-Brain, Cyber-Individual, Cyber-Life, Cyber/Digital Clone, Cyber-Human Evol
 
 ## Submission and Publication
 
-Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Submitted papers need to abide by IEEE Computer Society formats. Final papers must be formatted accordingly (see “[IEEE Manuscript Templates](http://cyber-science.org/2017/si.html)” and submitted via EDAS [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118). 
+Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Submitted papers need to abide by IEEE Computer Society formats. Final papers must be formatted accordingly (see “[IEEE Manuscript Templates](http://cyber-science.org/2017/si.html)” and submitted via EDAS [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118)). 
 
 Regular, work-in-progress, workshop/special session, poster (short) papers all need to be in IEEE CS format and submitted following the same instruction on the CyberSciTech 2017 congress web site. A regular, workshop, or special session paper should be between 6-8 pages. A work-in-progress paper should be between 4-6 pages whereas a poster (short) paper should be between 2-4 pages. 
 
-All accepted papers in the regular, work-in-progress, workshops, special sessions and posters will be published in an IEEE Computer Society proceedings (EI indexed). Extended versions of selected excellent papers will be considered for publication in special issues of prestige journals [http://cyber-science.org/2017/si.html](http://cyber-science.org/2017/si.html).
-
+All accepted papers in the regular, work-in-progress, workshops, special sessions and posters will be published in an IEEE Computer Society proceedings (EI indexed). Extended versions of selected excellent papers will be considered for publication in special issues of prestigious journals [http://cyber-science.org/2017/si.html](http://cyber-science.org/2017/si.html).

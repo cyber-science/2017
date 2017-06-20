@@ -112,6 +112,10 @@ url("font-awesome.min.css");
 	section.special, article.special {
 		text-align: center;
 	}
+    
+    .centertext {
+        text-align: center;
+    }
 
 	header.major {
 		padding-bottom: 2em;
@@ -615,9 +619,9 @@ url("font-awesome.min.css");
 	@keyframes reveal-header { 0% { top: -5em; } 100% { top: 0; } }
 
 	#header {
-		background: white;
+		background: #0072A8;
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
-		color: inherit;
+		color: white;
 		cursor: default;
 		font-size: 0.8em;
 		left: 0;

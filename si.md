@@ -5,11 +5,14 @@ description: IEEE CyberSciTech/DASC/PICom/DataCom
 icon: fa-file-text
 ---
 
+<div class="centertext">
+<h2>Special Issues</h2>
+</div>
+
 Distinguished papers selected from the conferences and associated workshops, after further extensions, will be recommended for submission and publication in the following prestigious journals or their Special Issues:
 
 1. [IEEE Cloud Computing](https://www.computer.org/cloud-computing)
-2. [Scalable Computing and Communications - Special Issue on "Scalable Algorithms and Behavior Analytics in Cyber-Enabled World"
-](http://www.springer.com/?SGWID=0-102-2-1572358-preview&dynamic=true)
+2. [Scalable Computing and Communications - Special Issue on "Scalable Algorithms and Behavior Analytics in Cyber-Enabled World"](http://www.springer.com/?SGWID=0-102-2-1572358-preview&dynamic=true)
 3. [Future Generation Computer Systems](https://www.journals.elsevier.com/future-generation-computer-systems)
 4. [Elsevier Ad Hoc Networks](https://www.journals.elsevier.com/ad-hoc-networks)
 
