@@ -50,13 +50,23 @@ icon: fa-laptop
 - Kun Wang, Nanjing Univ. of Posts and Tele., China
 - Sami Habib, Kuwait University, Kuwait
 
+## Publication Chairs
+
+- Jian Zhou, University of Central Florida, USA
+- Mao Ye, University of Central Florida, USA
+
+## Registration Chair
+
+- Jian Zhou, University of Central Florida, USA
+
 ## Financial Chair
 
 - Xunchao Chen, University of Central Florida, USA
 
-## Local Arrangement Chair 
+## Local Arrangement Chairs
 
 - Deliang Fan, University of Central Florida, USA
+- Dan Huang, University of Central Florida, USA
 
 ## Steering Committee 
 
