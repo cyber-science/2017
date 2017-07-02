@@ -9,6 +9,11 @@ icon: fa-file-text
 <h2>Special Sessions</h2>
 </div>
 
+- [(1) Virtual Reality under Cyber](#1-virtual-reality-under-cyber)
+- [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh)
+- [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc)
+- [(4) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#4-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017)
+
 ## (1) Virtual Reality under Cyber
 
 ### Scope and topics
@@ -71,7 +76,7 @@ Selected papers will be recommended to the IEEE Access (impact factor 3.244) spe
 - Kun Hua, Lawrence Technological University, USA
 - Chaomin Luo, University of Detroit Mercy, USA
 
-## (3) Cyber-enabled Intelligent Sensing and Smart Computing   (Cyber-ISSC)
+## (3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)
 
 ### Scope and topics
 
