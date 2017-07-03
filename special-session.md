@@ -10,9 +10,9 @@ icon: fa-file-text
 </div>
 
 - [(1) Virtual Reality under Cyber](#1-virtual-reality-under-cyber)
-- [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh)
-- [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc)
-- [(4) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#4-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017)
+- [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
+- [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
+- [(4) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#4-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017) [[PDF](/2017/download/SNIC2017-CFP.pdf)]
 
 ## (1) Virtual Reality under Cyber
 
