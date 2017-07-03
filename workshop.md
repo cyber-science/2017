@@ -8,9 +8,49 @@ icon: fa-file-text
 <h2>Workshop</h2>
 </div>
 
-- [(1) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#1-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017) [[PDF](/2017/download/SNIC2017-CFP.pdf)]
+- [(1) The 2nd International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2017)](#1-the-2nd-international-workshop-on-emerging-dependable-computing-system-technologies-and-applications-edcsta-2017) [[PDF](/2017/download/EDCSTA_2017.pdf)]
+- [(2) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#2-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017) [[PDF](/2017/download/SNIC2017-CFP.pdf)]
 
-## (1) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)
+
+## (1) The 2nd International Workshop on Emerging Dependable Computing System Technologies and Applications (EDCSTA 2017) 
+
+### Scope and topics
+
+Advances in computing systems and innovative technologies are fast growing towards developments of more complex, heterogeneous and dynamically scalable 
+computing systems. However, these systems are still vulnerable to system failures or any other untoward incidents. The cloud computing system, as an abstraction 
+of  concealed  complex  infrastructure  of  virtualized  resources  to  provide  cloud  services,  has  spurred  the  grand  challenges  in  computing.  The  EDCSTA-2017  is  to 
+provide a venue of scientific interaction of grand challenging research areas and developments of emerging dependable infrastructure/platforms of complex network 
+computing system technologies, innovations, and applications.  
+
+Topics include, but are not limited to the following:  
+
+- (1) Cloud Computing Systems/Applications/Services
+- (2) Cloud and IoT Convergence
+- (3) Resilient Cloud
+- (4) Ontologies in Information and Communication Technology (ICT)
+- (5) Mobile Pervasive Computing
+- (6) Reliability and Fault-tolerance
+- (7) Dependability in Cloud Computing Systems 
+
+### MPORTANT DATES 
+
+- July 28, 2016:  Deadline of Abstract and Full Paper Submission 
+- August 10, 2016:  Authors Notification and Start of Early Bird Registration 
+- September 1, 2016:  Submission Deadline of Camera Ready Papers 
+- September1, 2016:  Deadline of Authors/Early-bird Registration 
+
+### Workshop Organizers: 
+
+- Bernady O. Apduhan , Kyushu Sangyo University, Japan
+- Tadashi Dohi, Hiroshima University, Japan 
+
+### Paper Submission Guidelines:  
+
+The submitted papers must be 6 pages long including figures and references, and prepared according to IEEE Computer Society CPS format (two columns, single-spaced, 10 fonts). Check the Author Guidelines through this link: http://www.computer.org/web/cs-cps/. Submitted papers will be peer reviewed by at least two reviewers. The materials presented in the papers should not be published or under submission elsewhere. Submission of a paper implies that should the paper be accepted, at least one of the authors should register and orally present the paper in the conference. 
+
+All papers must be submitted electronically in PDF format through the DASC 2017 submission system: [https://edas.info/newPaper.php?c=23118](https://edas.info/newPaper.php?c=23118) Accepted papers will be included in the DASC-2017 conference proceedings to be published by IEEE-CS CPS (indexed by EI). 
+
+## (2) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)
 
 ### Scope and topics
 
