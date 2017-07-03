@@ -13,6 +13,7 @@ icon: fa-file-text
 - [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
 - [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
 - [(4) IEEE CyberSciTech 2017 Workshop on Social Networks and Intelligence in Cyberspace (SNIC-2017)](#4-ieee-cyberscitech-2017-workshop-on-social-networks-and-intelligence-in-cyberspace-snic-2017) [[PDF](/2017/download/SNIC2017-CFP.pdf)]
+- [(5) Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#5-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea)
 
 ## (1) Virtual Reality under Cyber
 
@@ -152,3 +153,50 @@ Authors are invited to submit their original work (4~6 pages length) by IEEE Com
 
 - Fei Hao, Shaanxi Normal University, China (fhao@snnu.edu.cn)
 - Muhammad Atif Qureshi, Insight-Centre (UCD), Ireland
+
+## (5) Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)
+
+### Aims and Scope 
+
+In the past several years, we have seen dramatic advancement in many application domains enabled by the use of computing and networking technologies, as well as computational intelligence algorithms and computing methodologies. This development has resulted in many emerging highly interdisciplinary research areas, such as Internet of Things, Smart Cities, Big Data, Social Computing, and a variety of cyber-enabled applications. These new technologies are transforming our society, and have
+enormous economic impact from various aspects beyond peoples expectation. 
+This special session, focusing on Cyber Social Computing and Cyber-Enabled Applications, aims to bring together researchers and engineers from all related areas to disseminate their findings and foster a community to exchange ideas and seek potential collaborations, so as to further the advancement of the state of the art of these emerging paradigms and technologies. 
+This special session will be held in conjunction with CyberSciTech 2017 (2017 IEEE Cyber Science and Technology Congress, Orlando, USA, November 6-10, 2017). 
+
+### Topics 
+
+This special session solicits original, unpublished papers (including work-in-progress papers) on the research and development closely related to Cyber Social Computing and Cyber-Enabled Applications. Topics of interest include, but not limited to: 
+
+- User behavior analysis and modeling in social cyberspace 
+- User influence measure and model in social cyberspace 
+- Community detection and structural analysis in social cyberspace 
+- Information diffusion and sharing across multi social cyberspaces 
+- Semantic social network analysis 
+- Data-driven interdisciplinary modeling and analysis 
+- Trust and reputation in social cyberspace 
+- Privacy and security in social cyberspace 
+- Cyber-enabled smart learning, healthcare services
+
+We also welcome submissions on fundamental research in cyber social computing that enables and facilitates new smart technologies in any of potential application domains or in other areas that we have yet to foresee. 
+
+### Important Dates 
+
+- Submission Due:             August 20, 2017
+- Acceptance Notification:        September 6, 2017
+- Camera-ready Manuscript Due:    September 20, 2017
+
+### Special Session Organizers 
+
+Weimin Li, Shanghai University, China
+Qun Jin, Wesada University, Japan 
+
+
+### Submission & Publication 
+
+Interested authors can submit full technical papers with 4-6 pages or work-in-progress paper with 2-4 pages. All submissions should follow the IEEE CS format. Accepted and presented papers will be published in the proceedings of CyberSciTech 2017 by IEEE CPS (IEEE Digital Library and EI-indexed). At least one author of each accepted paper is required to register and present their work at CyberSciTech 2017. Otherwise the paper will not be included in the proceedings. 
+Selected excellent papers, after further extension and revision, will be recommended to special issues of prestige international journals (SCI/EI indexed). 
+
+### Contact Information 
+
+Dr. Weimin Li, wmli@shu.edu.cn
+
