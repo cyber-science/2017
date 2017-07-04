@@ -8,7 +8,7 @@ icon: fa-file-text
 <h2>Special Sessions</h2>
 </div>
 
-- [(1) Virtual Reality under Cyber](#1-virtual-reality-under-cyber)
+- [(1) Virtual Reality under Cyber](#1-virtual-reality-under-cyber) [[PDF](/2017/download/CyberVRC2017.pdf)]
 - [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
 - [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
 - [(4) Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#4-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea)
