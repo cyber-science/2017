@@ -32,13 +32,6 @@ Topics include, but are not limited to the following:
 - (6) Reliability and Fault-tolerance
 - (7) Dependability in Cloud Computing Systems 
 
-### MPORTANT DATES 
-
-- July 28, 2016:  Deadline of Abstract and Full Paper Submission 
-- August 10, 2016:  Authors Notification and Start of Early Bird Registration 
-- September 1, 2016:  Submission Deadline of Camera Ready Papers 
-- September1, 2016:  Deadline of Authors/Early-bird Registration 
-
 ### Workshop Organizers: 
 
 - Bernady O. Apduhan , Kyushu Sangyo University, Japan
@@ -72,12 +65,6 @@ Topics:
 - (10) Social intelligence aware applications
 - (11) Crowdsourcing and collective intelligence
 - (12) Other issues related to various social computing applications and case studies
-
-### Important date
-
-- Submission Deadline: August 20, 2017
-- Author Notification: September 6, 2017
-- Final Manuscript Due: September 21, 2017
 
 ### Submission:
 

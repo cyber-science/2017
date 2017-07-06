@@ -29,7 +29,6 @@ In the past several years, we have seen dramatic advancement in many application
 
 Yi Wei, Lecture, Wuyi University, wyqbits@sina.com
 
-
 ## (2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)
 
 ### Scope and topics
@@ -99,12 +98,6 @@ Submission and Publication Authors are invited to submit their original work tha
 - (2) IEEE Internet of Things Journal (Impact factor 7.596)
 - (3) Cluster Computing (Impact factor 2.040)
 
-### Important date
-
-- Submission Due: August 20 
-- Notification: September 6
-- Camera-ready Due: September 20
-
 ### Organizing committee
 
 - Tie Qiu, Dalian University of Technology, China, (Special Session Contact: qiutie@ieee.org) 
@@ -137,12 +130,6 @@ This special session solicits original, unpublished papers (including work-in-pr
 - Cyber-enabled smart learning, healthcare services
 
 We also welcome submissions on fundamental research in cyber social computing that enables and facilitates new smart technologies in any of potential application domains or in other areas that we have yet to foresee. 
-
-### Important Dates 
-
-- Submission Due:             August 20, 2017
-- Acceptance Notification:        September 6, 2017
-- Camera-ready Manuscript Due:    September 20, 2017
 
 ### Special Session Organizers 
 
