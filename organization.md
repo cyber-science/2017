@@ -17,14 +17,14 @@ title: Organization
 - General Executive Chair
 - Jun Wang, University of Central Florida, USA
 
-### Program Chairs 
+### Program Chairs
 
 - Kevin I-Kai Wang, The Univ. of Auckland, New Zealand
 - Kejie Lu, University of Puerto Rico at Mayagüez, USA
 - Periklis Chatzimisios, ATEITHE, Greece
 - Boon-Chong Seet, AUT, New Zealand
 
-### Workshop/Tutorial Chairs 
+### Workshop/Tutorial Chairs
 
 - Yaser P. Fallah, University of Central Florida, USA
 - Xiulong Liu, Hong Kong Polytechnic Univ., HK
@@ -40,16 +40,17 @@ title: Organization
 - Feng Ye, University of Dayton, USA
 - Huawei Huang, The University of Aizu, Japan
 
-### Special Issue Chair 
+### Special Issue Chair
 
 - Xiaokang Zhou, Shiga University, Japan
 
-### Publicity Chairs 
+### Publicity Chairs
 
 - Ah-Lian Kor, Leeds Beckett University, UK
 - Md Zakirul Alam Bhuiyan, Fordham University, USA
 - Kun Wang, Nanjing Univ. of Posts and Tele., China
 - Sami Habib, Kuwait University, Kuwait
+- Klimis Ntalianis, National Technical University of Athens, Greece
 
 ### Publication Chairs
 
@@ -69,7 +70,7 @@ title: Organization
 - Deliang Fan, University of Central Florida, USA
 - Dan Huang, University of Central Florida, USA
 
-### Steering Committee 
+### Steering Committee
 
 - Jianhua Ma (Chair), Hosei University, Japan
 - Mazin Yousif, T-Systems, International, USA
@@ -80,20 +81,20 @@ title: Organization
 
 ## Technical Program Committee
 
-- Tzung-Pei Hong, National University of Kaohsiung, Taiwan 
-- Hamid R. Rabiee, Sharif University of Technology, Iran 
+- Tzung-Pei Hong, National University of Kaohsiung, Taiwan
+- Hamid R. Rabiee, Sharif University of Technology, Iran
 - Yizhi Ren, Hangzhou Dianzi University, China
-- Yoshifumi Manabe, Kogakuin University, Japan 
-- Gang Li, Deakin Univeristy, Australia 
-- Nuno Laranjeiro, University of Coimbra, Portugal 
+- Yoshifumi Manabe, Kogakuin University, Japan
+- Gang Li, Deakin Univeristy, Australia
+- Nuno Laranjeiro, University of Coimbra, Portugal
 - Naghmeh Ivaki, University of Coimbra, Portugal
 - Panagiotis Karampelas, Hellenic Air Force Academy, Greece  
 - Xiping Hu, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China   
-- Jingyu Hua, Nanjing University, China 
-- Lorna Uden, Staffordshire University, UK 
+- Jingyu Hua, Nanjing University, China
+- Lorna Uden, Staffordshire University, UK
 - Soon Ae Chun, City University of New York, USA  
 - Yufeng Wang, Nanjing University of Posts and Telecommunications, China  
-- Sangkeun Lee, Korea University, Republic of Korea 
+- Sangkeun Lee, Korea University, Republic of Korea
 - Yoshiaki Kakuda, Hiroshima City University, Japan
 - William Dai, Shanghai JiaoTong University, China
 - Qinglin Tian, Huawei Technologies, China
@@ -102,9 +103,13 @@ title: Organization
 - Mohd Nazrin Muhammad, Universiti Teknikal Malaysia Melaka, Malaysia
 - Ho-Seok Ahn, University of Auckland, New Zealand
 - Wei-Tsun Sun, Institut de Recherche en Informatique de Toulouse, France
+- Bin Guo, Northwestern Polytechnical University, China
+- Klimis Ntalianis, National Technical University of Athens, Greece
+- Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
+- Tie Qiu, Dalian University of Technology, China
+- Houcine Hassan, Universitat Politecnica de Valencia, Spain
+- Tao Ban, National Institute of Information and Communications Technology, Japan
 
 ## Contact Email
 
 - [cyberscitechcongress@gmail.com](mailto:cyberscitechcongress@gmail.com)
-
-
