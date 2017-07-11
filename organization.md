@@ -109,6 +109,7 @@ title: Organization
 - Tie Qiu, Dalian University of Technology, China
 - Houcine Hassan, Universitat Politecnica de Valencia, Spain
 - Tao Ban, National Institute of Information and Communications Technology, Japan
+- Jiang Lu, University of Houston-Clear Lake, USA
 
 ## Contact Email
 
