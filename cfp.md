@@ -31,7 +31,7 @@ Cyber-Brain, Cyber-Individual, Cyber-Life, Cyber/Digital Clone, Cyber-Human Evol
 
 ### Regular Papers:
 
-- Paper Submission Due: July 10, 2017
+- Paper Submission Due: ~~July 10, 2017~~ July 24, 2017
 - Author Notification: August 20, 2017
 
 ### Workshop/Special Session/Work-in-Progress/Poster Papers:
