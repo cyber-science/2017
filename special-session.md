@@ -8,11 +8,11 @@ icon: fa-file-text
 <h2>Special Sessions</h2>
 </div>
 
-- [(1) Virtual Reality under Cyber (VRC)](#1-virtual-reality-under-cyber-vrc) [[PDF](/2017/download/CyberVRC2017.pdf)]
-- [(2) Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
-- [(3) Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
-- [(4) Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#4-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea) [[PDF](/2017/download/CyberCSC&CEA2017.pdf)]
-- [(5) CYBER-TECHNOLOGY FOR CONNECTED AND AUTOMATED TRANSPORTATION SYSTEMS (CCATS)](#5-cyber-technology-for-connected-and-automated-transportation-systems-ccats)
+1. [Virtual Reality under Cyber (VRC)](#1-virtual-reality-under-cyber-vrc) [[PDF](/2017/download/CyberVRC2017.pdf)]
+2. [Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
+3. [Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
+4. [Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#4-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea) [[PDF](/2017/download/CyberCSC&CEA2017.pdf)]
+5. [CYBER-TECHNOLOGY FOR CONNECTED AND AUTOMATED TRANSPORTATION SYSTEMS (CCATS)](#5-cyber-technology-for-connected-and-automated-transportation-systems-ccats)
 
 ## (1) Virtual Reality under Cyber (VRC)
 
@@ -20,11 +20,11 @@ icon: fa-file-text
 
 In the past several years, we have seen dramatic advancement in many applications enabled by the use of virtual reality technologies. The purpose of this special issue on CyberSciTech 2017 is to offer a platform for scientist and researchers to exchange their novel ideas and outcomes in research and technology on virtual reality. The main topics of interest are on challenges and innovations for virtual reality and its applications in game, movie and social networking. We are seeking papers in, but not limited to, the following main areas:
 
-- (1) Architecture and equipment for virtual reality
-- (2) Facial animation, human motion analysis and synthesis
-- (3) Fluid animation and fluid modeling
-- (4) Computer vision for 3D modeling
-- (5) Augmented reality and image processing for visual effects
+1. Architecture and equipment for virtual reality
+2. Facial animation, human motion analysis and synthesis
+3. Fluid animation and fluid modeling
+4. Computer vision for 3D modeling
+5. Augmented reality and image processing for visual effects
 
 ### Organiser
 
@@ -38,16 +38,16 @@ In this special session, we are interested in research on cyber-enabled systems,
 
 Topic of interests of this special session include, but not limited to:
 
-- (1) Smart and connected health
-- (2) Smart home
-- (3) Internet of Things
-- (4) Wearable sensing and computing
-- (5) Speech recognition and speaker identification
-- (6) Computer vision and image processing
-- (7) Behavior analysis and modeling of human activities
-- (8) Context-aware sensing and decision making
-- (9) Human-cyber-physical interaction
-- (10) Sensing, networking, and computing with smart phones and wearable devices
+1. Smart and connected health
+2. Smart home
+3. Internet of Things
+4. Wearable sensing and computing
+5. Speech recognition and speaker identification
+6. Computer vision and image processing
+7. Behavior analysis and modeling of human activities
+8. Context-aware sensing and decision making
+9. Human-cyber-physical interaction
+10. Sensing, networking, and computing with smart phones and wearable devices
 
 ### Submission guidelines
 
@@ -83,21 +83,21 @@ With the rapid  development of Ubiquities computing and Internet of Things, Cybe
 
 Topic of interests of this special session include, but not limited to:
 
-- (1) Intelligent Internet of Things
-- (2) Wireless sensor networks and mobile communication networks
-- (3) Smart cities and intelligent transportation
-- (4) Social networks and mobile computing
-- (5) Big Data analysis and cloud computing
-- (6) Security and privacy for mobile Internet of Things
-- (7) Modeling and applications for Cyber-Psychical Systems
+1. Intelligent Internet of Things
+2. Wireless sensor networks and mobile communication networks
+3. Smart cities and intelligent transportation
+4. Social networks and mobile computing
+5. Big Data analysis and cloud computing
+6. Security and privacy for mobile Internet of Things
+7. Modeling and applications for Cyber-Psychical Systems
 
 ### Submission guidelines
 
 Submission and Publication Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Submitted papers need to abide by IEEE Computer Society formats. Final papers must be formatted accordingly (see “IEEE Manuscript Templates”) and submitted via EDAS https://edas.info/newPaper.php?c=23118. Special session needs to be in IEEE CS format and submitted following the same instruction on the CyberSciTech 2017 congress web site. A special session paper should be between 4-8 pages. All accepted papers in special sessions will be published in an IEEE Computer Society proceedings (EI indexed). Extended versions of selected excellent papers will be considered for publication in the following special issues of prestige journals.
 
-- (1) IEEE Access (Impact factor 3.244)
-- (2) IEEE Internet of Things Journal (Impact factor 7.596)
-- (3) Cluster Computing (Impact factor 2.040)
+1. IEEE Access (Impact factor 3.244)
+2. IEEE Internet of Things Journal (Impact factor 7.596)
+3. Cluster Computing (Impact factor 2.040)
 
 ### Organizing committee
 
@@ -120,15 +120,15 @@ This special session will be held in conjunction with CyberSciTech 2017 (2017 IE
 
 This special session solicits original, unpublished papers (including work-in-progress papers) on the research and development closely related to Cyber Social Computing and Cyber-Enabled Applications. Topics of interest include, but not limited to:
 
-- (1) User behavior analysis and modeling in social cyberspace
-- (2) User influence measure and model in social cyberspace
-- (3) Community detection and structural analysis in social cyberspace
-- (4) Information diffusion and sharing across multi social cyberspaces
-- (5) Semantic social network analysis
-- (6) Data-driven interdisciplinary modeling and analysis
-- (7) Trust and reputation in social cyberspace
-- (8) Privacy and security in social cyberspace
-- (9) Cyber-enabled smart learning, healthcare services
+1. User behavior analysis and modeling in social cyberspace
+2. User influence measure and model in social cyberspace
+3. Community detection and structural analysis in social cyberspace
+4. Information diffusion and sharing across multi social cyberspaces
+5. Semantic social network analysis
+6. Data-driven interdisciplinary modeling and analysis
+7. Trust and reputation in social cyberspace
+8. Privacy and security in social cyberspace
+9. Cyber-enabled smart learning, healthcare services
 
 We also welcome submissions on fundamental research in cyber social computing that enables and facilitates new smart technologies in any of potential application domains or in other areas that we have yet to foresee.
 
@@ -157,15 +157,15 @@ This special session focuses on cyber and cyber-physical technology and science 
 
 This special session solicits original, unpublished papers (including work-in-progress papers) on the research and development closely related to the cyber or cyber-physical technology and science that enables smart transportation systems. Topics of interest include, but not limited to:
 
--	(1) Hardware and Software Architecture for Automated and Connected Vehicle Technologies
--	(2) Sensing, Communication and Computing Technologies for Automated or Connected Vehicles, or in general Intelligent Transportation Systems
--	(3) Smart and Connected Communities, Transportation Applications and Technologies
--	(4) The Science of System Integration for Smart Transportation Systems
--	(5) Mobility Management in Connected Transportation
--	(6) Situational Awareness and Sensing in Automated Vehicles
--	(7) Wireless Communication Technologies for Connected or Automated Vehicles
--	(8) Data-driven Modeling and Analysis of Transport Systems and Vehicles
--	(9) Privacy and Security Aspects of the Cyber Technology in Transportation Systems
+1. Hardware and Software Architecture for Automated and Connected Vehicle Technologies
+2. Sensing, Communication and Computing Technologies for Automated or Connected Vehicles, or in general Intelligent Transportation Systems
+3. Smart and Connected Communities, Transportation Applications and Technologies
+4. The Science of System Integration for Smart Transportation Systems
+5. Mobility Management in Connected Transportation
+6. Situational Awareness and Sensing in Automated Vehicles
+7. Wireless Communication Technologies for Connected or Automated Vehicles
+8. Data-driven Modeling and Analysis of Transport Systems and Vehicles
+9. Privacy and Security Aspects of the Cyber Technology in Transportation Systems
 
 ### IMPORTANT DATES
 

@@ -112,7 +112,7 @@ url("font-awesome.min.css");
 	section.special, article.special {
 		text-align: center;
 	}
-    
+
     .centertext {
         text-align: center;
     }
@@ -1106,4 +1106,14 @@ url("font-awesome.min.css");
 		#sidePanel .indent-5 {
 			display: inline-block;
 			width: 5em;
+		}
+
+		.content ol {
+			list-style-type: decimal !important;
+			list-style-position: inside !important;
+		}
+
+		.content ul {
+			list-style-type: disc !important;
+			list-style-position: inside !important;
 		}
