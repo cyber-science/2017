@@ -3,16 +3,19 @@ layout: right-sidebar-article
 title: Program Committee
 ---
 
-## Technical Program Committee (order by alphabetical)
+## Technical Program Committee (in alphabetical order by last name)
 
 - Ho-Seok Ahn, University of Auckland, New Zealand
 - Tao Ban, National Institute of Information and Communications Technology, Japan
+- George Bebis, University of Nevada, USA
 - Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
 - Soon Ae Chun, City University of New York, USA  
 - William Dai, Shanghai JiaoTong University, China
+- Jana Dittmann, University of Magdeburg, Germany
 - Athanasios Drigas, National Center for Scientific Research "Demokritos", Greece
 - Nicola Fabiano, IoT Council, Italy
 - Xiaohua Feng, University of Bedfordshire, UK
+- Claudio Guarnaccia, University of Salerno, Italy
 - Ao Guo, Hosei University, Japan
 - Bin Guo, Northwestern Polytechnical University, China
 - Houcine Hassan, Universitat Politecnica de Valencia, Spain
@@ -27,20 +30,26 @@ title: Program Committee
 - Sangkeun Lee, Korea University, Republic of Korea
 - Gang Li, Deakin Univeristy, Australia
 - Jiang Lu, University of Houston-Clear Lake, USA
+- Wenjia Li, New York Institute of Technology, USA
 - Yoshifumi Manabe, Kogakuin University, Japan
 - Nikolaos Mastorakis, Technical University of Sofia, Bulgaria
 - Mohd Nazrin Muhammad, Universiti Teknikal Malaysia Melaka, Malaysia
 - Halim Noor, Universiti Teknologi MARA, Malaysia
 - Klimis Ntalianis, National Technical University of Athens, Greece
 - Yufeng Wang, Nanjing University of Posts and Telecommunications, China  
+- Jahna Otterbacher, Open University of Cyprus, Cyprus
 - Cheng Pang, Googol Technology, China
+- Costantinos Pattichis, University of Cyprus, Cyprus
 - Tie Qiu, Dalian University of Technology, China
 - Hamid R. Rabiee, Sharif University of Technology, Iran
 - Yizhi Ren, Hangzhou Dianzi University, China
+- Abdel-Badeeh M. Salem, Ain Shams University, Egypt
+- Francesco Tajani, University of Bari, Italy
 - Wei-Tsun Sun, Institut de Recherche en Informatique de Toulouse, France
 - Qinglin Tian, Huawei Technologies, China
 - Nicolas Tsapatsoulis, Cyprus University of Technology, Cyprus
 - Lorna Uden, Staffordshire University, UK
 - Vinod Kumar Verma, Sant Longowal Institute of Engineering, India
+- Claus Vielhauer, University of Brandenburg, Germany
 - Wenbing Zhao, Cleveland State University, USA
 - Xingquan Zhu, Florida Atlantic University, USA
