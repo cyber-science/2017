@@ -1,16 +1,28 @@
 <!-- Header -->
 <header id="header">
-  <h1 id="logo"><a href="index.html">{{ site.short_title }}</a></h1>
+  <h1 id="logo"><a href="index.html">{{ site.short_title }}</a> <span>{{ site.description }}</span></h1>
   <nav id="nav">
     <ul>
-      <li><a href="{{"/cfp.html" | prepend: site.baseurl}}">Call for Papers</a></li>
-      <li><a href="{{"/special-session.html" | prepend: site.baseurl}}">Special Sessions</a></li>
-      <li><a href="{{"/si.html" | prepend: site.baseurl}}">Special Issues</a></li>
-      <li><a href="{{"/workshop.html" | prepend: site.baseurl}}">Workshop</a></li>
-      <li><a href="{{"/tutorial.html" | prepend: site.baseurl}}">Tutorials</a></li>
-      <li><a href="{{"/hotel.html" | prepend: site.baseurl}}">Hotel</a></li>
-      <li><a href="{{"/organization.html" | prepend: site.baseurl}}">Organization</a></li>
+      <li class="submenu">
+        <a href="#">Participate</a>
+        <ul>
+          <li><a href="{{"/cfp.html" | prepend: site.baseurl}}">Call for Papers</a></li>
+          <li><a href="{{"/special-session.html" | prepend: site.baseurl}}">Special Sessions</a></li>
+          <li><a href="{{"/si.html" | prepend: site.baseurl}}">Special Issues</a></li>
+          <li><a href="{{"/workshop.html" | prepend: site.baseurl}}">Workshop</a></li>
+          <li><a href="{{"/tutorial.html" | prepend: site.baseurl}}">Tutorials</a></li>
+        </ul>
+      </li>
+      <li><a href="{{"/organization.html" | prepend: site.baseurl}}">Organizer</a></li>
+      <li class="submenu">
+        <a href="#">Program</a>
+      </li>
+      <li class="submenu">
+        <a href="#">Attend</a>
+        <ul>
+          <li><a href="{{"/hotel.html" | prepend: site.baseurl}}">Location</a></li>
+        </ul>
+      </li>
     </ul>
   </nav>
-  <span>{{ site.description }}</span>
 </header>
