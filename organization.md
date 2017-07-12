@@ -120,6 +120,7 @@ title: Organization
 - Lorna Uden, Staffordshire University, UK
 - Vinod Kumar Verma, Sant Longowal Institute of Engineering, India
 - Wenbing Zhao, Cleveland State University, USA
+- Xingquan Zhu, Florida Atlantic University, USA
 
 ## Contact Email
 
