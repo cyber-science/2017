@@ -12,7 +12,7 @@ icon: fa-file-text
 2. [Cyber-Enabled Smart Environment and Healthcare (Cyber-ESEH)](#2-cyber-enabled-smart-environment-and-healthcare-cyber-eseh) [[PDF](/2017/download/CyberESEH2017.pdf)]
 3. [Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
 4. [Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#4-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea) [[PDF](/2017/download/CyberCSC&CEA2017.pdf)]
-5. [CYBER-TECHNOLOGY FOR CONNECTED AND AUTOMATED TRANSPORTATION SYSTEMS (CCATS)](#5-cyber-technology-for-connected-and-automated-transportation-systems-ccats)
+5. [CYBER-TECHNOLOGY FOR CONNECTED AND AUTOMATED TRANSPORTATION SYSTEMS (CCATS)](#5-cyber-technology-for-connected-and-automated-transportation-systems-ccats) [[PDF](/2017/download/CyberCCATS2017.pdf)]
 6. [Computing and Applications for Cyber Internet of Things (Cyber-IoT)](#6-computing-and-applications-for-cyber-internet-of-things-cyber-iot) [[PDF](/2017/download/CyberIoT2017.pdf)]
 
 ## (1) Virtual Reality under Cyber (VRC)
