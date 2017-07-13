@@ -34,6 +34,7 @@ title: Program Committee
 - Yoshifumi Manabe, Kogakuin University, Japan
 - Nikolaos Mastorakis, Technical University of Sofia, Bulgaria
 - Mohd Nazrin Muhammad, Universiti Teknikal Malaysia Melaka, Malaysia
+- Yuki Nakamoto, University of Hyogo, Japan
 - Halim Noor, Universiti Teknologi MARA, Malaysia
 - Klimis Ntalianis, National Technical University of Athens, Greece
 - Yufeng Wang, Nanjing University of Posts and Telecommunications, China  
