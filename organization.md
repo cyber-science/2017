@@ -14,7 +14,9 @@ title: Organization
 
 - Song Guo, Hong Kong Polytechnic Univ., Hong Kong
 - Yi Qian, University of Nebraska-Lincoln, USA
-- General Executive Chair
+
+### General Executive Chair
+
 - Jun Wang, University of Central Florida, USA
 
 ### Program Chairs
