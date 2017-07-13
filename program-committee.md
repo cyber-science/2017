@@ -8,6 +8,7 @@ title: Program Committee
 - Ho-Seok Ahn, University of Auckland, New Zealand
 - Tao Ban, National Institute of Information and Communications Technology, Japan
 - George Bebis, University of Nevada, USA
+- Chien-Fu Cheng, Tamkang university, Taiwan
 - Kim-Kwang Raymond Choo, The University of Texas at San Antonio, USA
 - Soon Ae Chun, City University of New York, USA  
 - William Dai, Shanghai JiaoTong University, China
