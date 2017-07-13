@@ -13,6 +13,7 @@ icon: fa-file-text
 3. [Cyber-enabled Intelligent Sensing and Smart Computing (Cyber-ISSC)](#3-cyber-enabled-intelligent-sensing-and-smart-computing-cyber-issc) [[PDF](/2017/download/CyberISSC2017.pdf)]
 4. [Special Session on Cyber Social Computing and Cyber-Enabled Applications (CSC&CEA)](#4-special-session-on-cyber-social-computing-and-cyber-enabled-applications-csccea) [[PDF](/2017/download/CyberCSC&CEA2017.pdf)]
 5. [CYBER-TECHNOLOGY FOR CONNECTED AND AUTOMATED TRANSPORTATION SYSTEMS (CCATS)](#5-cyber-technology-for-connected-and-automated-transportation-systems-ccats)
+6. [Computing and Applications for Cyber Internet of Things (Cyber-IoT)](#6-computing-and-applications-for-cyber-internet-of-things-cyber-iot) [[PDF](/2017/download/CyberIoT2017.pdf)]
 
 ## (1) Virtual Reality under Cyber (VRC)
 
@@ -184,3 +185,28 @@ Interested authors can submit full technical papers with 4-6 pages or work-in-pr
 ### CONTACT INFORMATION
 
 - Dr. Yaser P. Fallah, Yaser.fallah@ucf.edu
+
+## (6) Computing and Applications for Cyber Internet of Things (Cyber-IoT)
+
+### Scope and Topics
+
+With the explosion of connected devices, cyber Internet of things (Cyber-IoT) have emerged to provide users with ubiquities computing and applications. In the Cyber-IoT, data storage and computing can be separated and distributed among the connected devices to support users with various services. To efficiently realize the Cyber-IoT computing and applications, new challenges must be addressed as different Cyber-IoT paradigms may have different needs and targets. For example, Cyber-IoT devices (e.g., driverless cars and smart phones) can communicate via wireless and mobile links, where the unstable and intermittent data transmission should be improved. Moreover, how to efficiently manage data storage as well as how to secure the Cyber-IoT system, are significant challenges with the development of Cyber-IoT.
+
+This special session encourages both industry and academia to submit original research papers related to Cyber-IoT computing and applications. Topic of interests of this special session includes, but not limited to:
+
+1. Computing and application architectures for Cyber-IoT
+2. Modeling and performance analysis for Cyber-IoT
+3. Wireless communication and networking for Cyber-IoT
+4. Resource allocation and energy efficiency for Cyber-IoT
+5. QoS and QoE provisioning for Cyber-IoT
+6. Trust, security and privacy for Cyber-IoT
+7. Storage and cache management for Cyber-IoT
+
+### Submission guidelines
+
+Authors are invited to submit their original work that has not previously been submitted or published in any other venue. Final papers must be formatted accordingly (see “IEEE Manuscript Templates”) and submitted via EDAS (https://edas.info/newPaper.php?c=23118) under this special session track. A special session paper should be between 4-6 pages.
+
+### Organizers
+
+- Zhou Su, Shanghai University, China (zhousu@ieee.org)
+- Kan Yang, The University of Memphis, USA (Kan.Yang@memphis.edu)
