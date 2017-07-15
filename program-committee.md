@@ -33,6 +33,7 @@ title: Program Committee
 - Jiang Lu, University of Houston-Clear Lake, USA
 - Wenjia Li, New York Institute of Technology, USA
 - Yoshifumi Manabe, Kogakuin University, Japan
+- Ying Mao, The College of New Jersey, USA
 - Nikolaos Mastorakis, Technical University of Sofia, Bulgaria
 - Mohd Nazrin Muhammad, Universiti Teknikal Malaysia Melaka, Malaysia
 - Yuki Nakamoto, University of Hyogo, Japan
