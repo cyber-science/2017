@@ -177,6 +177,7 @@ This special session solicits original, unpublished papers (including work-in-pr
 ### SPECIAL SESSION ORGANIZERS
 
 - Yaser P. Fallah, University of Central Florida, USA
+- Somak Datta Gupta (sdattagu@ford.com),  Ford Motor Co.
 
 ### SUBMISSION & PUBLICATION
 
