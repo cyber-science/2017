@@ -23,6 +23,7 @@ title: Program Committee
 - Tzung-Pei Hong, National University of Kaohsiung, Taiwan
 - Xiping Hu, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences, China   
 - Jingyu Hua, Nanjing University, China
+- Suzhen Huang, Central South University, China
 - Naghmeh Ivaki, University of Coimbra, Portugal
 - Yoshiaki Kakuda, Hiroshima City University, Japan
 - Massod Khalique, North West University, South Africa
@@ -47,11 +48,13 @@ title: Program Committee
 - Yizhi Ren, Hangzhou Dianzi University, China
 - Abdel-Badeeh M. Salem, Ain Shams University, Egypt
 - Francesco Tajani, University of Bari, Italy
+- Jingtao Sun, National Institute of Informatics, Japan
 - Wei-Tsun Sun, Institut de Recherche en Informatique de Toulouse, France
 - Qinglin Tian, Huawei Technologies, China
 - Nicolas Tsapatsoulis, Cyprus University of Technology, Cyprus
 - Lorna Uden, Staffordshire University, UK
 - Vinod Kumar Verma, Sant Longowal Institute of Engineering, India
 - Claus Vielhauer, University of Brandenburg, Germany
+- Guangquan Xu, Tianjin University, China
 - Wenbing Zhao, Cleveland State University, USA
 - Xingquan Zhu, Florida Atlantic University, USA
