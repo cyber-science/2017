@@ -56,3 +56,6 @@ comments:
       num_posts: 5
       width: 580
       colorscheme: light
+
+gems:
+  - jekyll-redirect-from
